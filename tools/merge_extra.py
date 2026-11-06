@@ -55,6 +55,8 @@ def main():
     if os.path.exists(cp): rk += [l.rstrip('\n').split('\t') for l in open(cp, encoding='utf-8') if l.strip()]
     # 지도 지명 표 0x244 의 가나 읽기: 게임이 뒤 바이트만 반각으로 찍는다 → 빈 칸(대 = eb) 만 나오게(기술 읽기 줄과 같음). 맨 뒤에 둬서 사본·병합 값을 덮는다
     rk += [l.rstrip('\n').split('\t') for l in open(os.path.join(ROOT, 'work', 'text', 'map_read.tsv'), encoding='utf-8') if l.strip()]
+    # 실행 파일 표 0x242 = 메모 후리가나(파란 글씨) — 번역 빈칸 대신 칸 수만큼 전각 공백
+    rk += [l.rstrip('\n').split('\t') for l in open(os.path.join(ROOT, 'work', 'text', 'rubi_blank.tsv'), encoding='utf-8') if l.strip()]
     open(os.path.join(OUT, 'sm2_190.tsv'), 'w', encoding='utf-8', newline='\n').write('key\tspeaker\tcount\tjp\tko\n' + ''.join('%s\t글꼴재배치\t1\t%s\t%s\n' % tuple(r) for r in rk))
     open(os.path.join(ROOT, 'work', 'text', 'ko_extra_log.tsv'), 'w', encoding='utf-8', newline='\n').write('key\tbefore\tafter\n' + '\n'.join(log) + '\n')
     os.makedirs(os.path.join(ROOT, 'work', 'check'), exist_ok=True)

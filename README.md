@@ -4,7 +4,7 @@
 
 ## 내려받기
 
-[릴리즈](https://github.com/hospi0/shenmue2-kr-patch/releases/latest)에서 `Shenmue2_KR_v0.9.zip` 을 받아
+[릴리즈](https://github.com/hospi0/shenmue2-kr-patch/releases/latest)에서 `Shenmue2_KR_v0.91.zip` 을 받아
 압축 안 `readme.txt` 대로 적용하세요. Disc 1 은 트랙 3·6, Disc 2~4 는 트랙 3·4 에 패치합니다(나머지 트랙·cue 는 원본 그대로).
 원본·패치 md5 는 `readme.txt` 에 있습니다.
 

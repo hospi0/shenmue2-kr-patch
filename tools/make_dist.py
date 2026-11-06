@@ -7,7 +7,7 @@ r"""쉔무 II 배포 묶음 — dist/Shenmue2_KR_<VER>/ : 장마다 바뀐 트�
 import hashlib, os, shutil, subprocess, sys, zipfile
 HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(HERE)
 
-VER = 'v0.9'
+VER = 'v0.91'
 XDELTA = r'C:\claude\utils\xdelta.exe'
 ROM = 'Shenmue II (Japan) (Disc %d)'
 SRC = r'C:\claude\roms\dc'

@@ -122,7 +122,7 @@ exe:217AD0		1	境内   Yard	경내   Yard
 exe:217ADC		1	文武廟   Man Mo Temple	문무묘   Man Mo Temple
 exe:217AF4		1	太老武術   Wise Men's Kung Fu	태로무술   Wise Men's Kung Fu
 exe:217B14		1	文武菜館   Man Mo Bistro	문무채관   Man Mo Bistro
-exe:217B30		1	太老薬舗   Wise Men's Chemist	태로약포   Wise Men's Chemist
+exe:217B30		1	太老薬舗   Wise Men's Chemist	태로약방   Wise Men's Chemist
 exe:217B50		1	文武陶器   Man Mo China Shop	문무도기   Man Mo China Shop
 exe:217B70		1	太老当舗   Wise Men's Pawnshop	태로전당포   Wise Men's Pawnshop
 exe:217B90		1	金華当舗   Golden Flower Pawnshop	금화전당포   Golden Flower Pawnshop
@@ -173,8 +173,8 @@ exe:218164		1	光来当舗   Shine Pawnshop	광래전당포   Shine Pawnshop
 exe:218180		1	紅南当舗   Carmain Pawnshop	홍남전당포   Carmain Pawnshop
 exe:21819C		1	恩田楼   Yan Tin Apartments	은전루   Yan Tin Apartments
 exe:2181B8		1	奥州蕎麦   Ohshu Soba	오슈 소바   Ohshu Soba
-exe:2181D0		1	文武酒舗   Bar Man Mo	문무주포   Bar Man Mo
-exe:2181E8		1	点点酒舗   Pub Point	점점주포   Pub Point
+exe:2181D0		1	文武酒舗   Bar Man Mo	문무주점   Bar Man Mo
+exe:2181E8		1	点点酒舗   Pub Point	점점주점   Pub Point
 exe:218200		1	日本蕎麦   Japanese Soba	일본 소바   Japanese Soba
 exe:21821C		1	富士山   Fujiyama Sushi	후지산   Fujiyama Sushi
 exe:218234		1	仙境占卦   Hermit Fortunetellers	선경점집   Hermit Fortunetellers

@@ -86,7 +86,7 @@ def check_tokens(off, jp, ko):
         b = [r.replace('0', '') for r in ascii_runs(ko) if r.replace('0', '')]
     if a != b: return '제어 토큰 다름: 원문 %r / 번역 %r' % (a, b)
     nrun = lambda s: len(re.findall('　{2,}', s))          # 아이콘 칸 맞춤(merge_tr.align_icons)으로 공백 줄이 길어질 수 있어 «줄» 개수로
-    if off not in ALIGN_TABLES and nrun(jp) != nrun(ko): return '버튼 자리(전각 공백 두 칸) 개수 다름'
+    if off not in ALIGN_TABLES and ko.strip('　') and nrun(jp) != nrun(ko): return '버튼 자리(전각 공백 두 칸) 개수 다름'
     return None
 
 def prep(jp, ko):
@@ -117,7 +117,7 @@ def load_tr(paths):
         for i, ln in enumerate(open(p, encoding='utf-8')):
             c = ln.rstrip('\n').split('\t')
             if i == 0 and c[0] == 'key': continue
-            if c[0].startswith('exe:') and c[-1].strip():
+            if c[0].startswith('exe:') and c[-1]:   # ★전각 공백만 있는 줄도 번역(비움) — .strip() 으로 거르면 일본어로 남는다
                 tr[int(c[0][4:], 16)] = c[-1].replace('\\n', '\n')
     return tr
 
