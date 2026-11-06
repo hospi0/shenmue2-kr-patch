@@ -49,6 +49,9 @@ def main():
             if ko != before: log.append('%s\t%s\t%s' % (key, before, ko))
             c[4] = ko; out.append('\t'.join(c)); n += 1
         open(os.path.join(OUT, 'sm2_%d.tsv' % i), 'w', encoding='utf-8', newline='\n').write('\n'.join(out) + '\n')
+    # 재배치 글꼴 칸 문자열 중 번역 묶음에서 빠진 줄(침대 메뉴 記録·設定, 기술 이름 6개) — 1편에서도 빠졌던 자리
+    rk = [l.rstrip('\n').split('\t') for l in open(os.path.join(ROOT, 'work', 'text', 'remap_ko.tsv'), encoding='utf-8') if l.strip()]
+    open(os.path.join(OUT, 'sm2_190.tsv'), 'w', encoding='utf-8', newline='\n').write('key\tspeaker\tcount\tjp\tko\n' + ''.join('%s\t글꼴재배치\t1\t%s\t%s\n' % tuple(r) for r in rk))
     open(os.path.join(ROOT, 'work', 'text', 'ko_extra_log.tsv'), 'w', encoding='utf-8', newline='\n').write('key\tbefore\tafter\n' + '\n'.join(log) + '\n')
     os.makedirs(os.path.join(ROOT, 'work', 'check'), exist_ok=True)
     open(os.path.join(ROOT, 'work', 'check', 'memo_over.tsv'), 'w', encoding='utf-8', newline='\n').write('\n'.join(over) + '\n')
