@@ -51,6 +51,10 @@ def main():
         open(os.path.join(OUT, 'sm2_%d.tsv' % i), 'w', encoding='utf-8', newline='\n').write('\n'.join(out) + '\n')
     # 재배치 글꼴 칸 문자열 중 번역 묶음에서 빠진 줄(침대 메뉴 記録·設定, 기술 이름 6개) — 1편에서도 빠졌던 자리
     rk = [l.rstrip('\n').split('\t') for l in open(os.path.join(ROOT, 'work', 'text', 'remap_ko.tsv'), encoding='utf-8') if l.strip()]
+    cp = os.path.join(ROOT, 'work', 'text', 'copy_ko.tsv')              # 같은 원문의 다른 주소 사본(tools/exe_copies.py)
+    if os.path.exists(cp): rk += [l.rstrip('\n').split('\t') for l in open(cp, encoding='utf-8') if l.strip()]
+    # 지도 지명 표 0x244 의 가나 읽기: 게임이 뒤 바이트만 반각으로 찍는다 → 빈 칸(대 = eb) 만 나오게(기술 읽기 줄과 같음). 맨 뒤에 둬서 사본·병합 값을 덮는다
+    rk += [l.rstrip('\n').split('\t') for l in open(os.path.join(ROOT, 'work', 'text', 'map_read.tsv'), encoding='utf-8') if l.strip()]
     open(os.path.join(OUT, 'sm2_190.tsv'), 'w', encoding='utf-8', newline='\n').write('key\tspeaker\tcount\tjp\tko\n' + ''.join('%s\t글꼴재배치\t1\t%s\t%s\n' % tuple(r) for r in rk))
     open(os.path.join(ROOT, 'work', 'text', 'ko_extra_log.tsv'), 'w', encoding='utf-8', newline='\n').write('key\tbefore\tafter\n' + '\n'.join(log) + '\n')
     os.makedirs(os.path.join(ROOT, 'work', 'check'), exist_ok=True)

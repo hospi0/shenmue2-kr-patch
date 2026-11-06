@@ -498,11 +498,22 @@ def h_title(A):
     sh = cv2.GaussianBlur(np.roll(np.roll(outline(M, 3), 8, 0), 8, 1), (0, 0), 6); paint(A, np.clip(sh, 0, 1) * .75, (20, 10, 5))
     paint(A, np.clip(cv2.GaussianBlur(outline(M, 3), (0, 0), 3) * 1.25, 0, 1) * .95, (205, 205, 123)); paint(A, M, (148, 41, 57))
 
+def h_sign_rows(A, L):
+    """844 표지판 시트: 게임이 줄마다 원본 글자 범위만 잘라 붙인다 → 줄별 원본 x 범위 안에 맞춰 그린다(가운데로 놓으면 끝이 잘림 — 완차이가 «완»만 나옴)"""
+    a = A[..., 3] > 40; bs = runs(a.any(axis=1), 2)
+    if len(bs) != len(L): return '줄 수 %d ≠ %d' % (len(bs), len(L))
+    box = [(int(np.where(a[t:b + 1].any(axis=0))[0][0]), int(np.where(a[t:b + 1].any(axis=0))[0][-1]), t, b) for t, b in bs]
+    col = tuple(int(v) for v in np.median(A[a][:, :3], axis=0))
+    A[...] = 0
+    for (x0, x1, t, b), l in zip(box, L):
+        size = fit_size([l], 'gothic_b', x1 - x0, b - t + 1)
+        paint(A, text_mask(A.shape[:2], [(l, (x0 + x1) / 2, (t + b) / 2)], 'gothic_b', size), col, True)
 def dispatch(n, g, A, L, memo, jp):
     if n in ('33', '1637'): return h_note(A, n)
     if L and L[0] == '축소': return 'SHRINK'
     if n == '562': A[:] = np.array(Image.open(LOGO1.replace('TITLE3__02_tit_main', 'RESUME02__00_re_fix2')).convert('RGBA')); return None   # 원본 화소 동일 → 1편 글자판(표 = work/tex/재사용/RESUME.DAT)
     if n == '655': return h_title(A)
+    if n == '844': return h_sign_rows(A, L)
     if n in ('94', '96', '2297', '2322'): return h_oval(A)
     if n in BTN: return h_btn(A, L[0], BTN[n])
     if n in ('653', '654'): return h_yesno(A, L[0], L[1])
