@@ -1,0 +1,245 @@
+key	speaker	count	jp	ko
+exe:213C10		1	【周善の技伝授】＼ｔ3^S戻る00つかむ動作は^Bで行えます。0相手をつかんだ後に^Cで色々な方向に0投げてみましょう。0相手に接近して、0積極的にチャレンジしてください。00　^C移動　　　　^Bつかみ0　　　投げる方向0	【저우산의 기술 전수】＼ｔ3^S뒤로00잡기 동작은 ^B로 할 수 있습니다.0상대를 잡은 뒤 ^C로 다양한 방향으로0던져 보세요.0상대에게 접근해서0적극적으로 도전해 보세요.00　^C이동　　　　^B잡기0　　　던지는 방향0
+exe:213CDC		1	【桂香の技伝授】＼ｔ3^S戻る00相手に近づいて「避け」と「投げ」のボタンを0押すと、斜行で倒す事が出来ます。0相手のスキをついて技をかけてみましょう。00^L^R走る　　　　　　　　^Y避け0　　　　　　　　　パンチ^X　　^B投げ0　　^C移動　　　　　キック^A0	【구이샹의 기술 전수】＼ｔ3^S뒤로00상대에게 다가가서 「피하기」와 「던지기」 버튼을0누르면 비스듬히 쓰러뜨릴 수 있습니다.0상대의 틈을 노려 기술을 써 보세요.00^L^R달리기　　　　　　　　^Y피하기0　　　　　　　　　펀치^X　　^B던지기0　　^C이동　　　　　킥^A0
+exe:213DD0		1	【徳林の技伝授】＼ｔ3^S戻る00２歩下がったと同時に0「パンチ」を打つのがコツです。000　　　　　　　　　　　　　　^Y避け0　^Cコマンド　　パンチ^X　　^B投げ0　　　　　　　　　　　キック^A0	【더린의 기술 전수】＼ｔ3^S뒤로00두 걸음 물러남과 동시에0「펀치」를 날리는 것이 요령입니다.000　　　　　　　　　　　　　　^Y피하기0　^C커맨드　　펀치^X　　^B던지기0　　　　　　　　　　　킥^A0
+exe:213E88		1	【建民の技伝授】＼ｔ3^S戻る00「腕」と「足」に力を入れます。0全ての行動を同時に行うのがコツです。000　　　　　　　　　　　　　　^Y避け0　^Cコマンド　　パンチ^X　　^B投げ0　　　　　　　　　　　キック^A0	【젠민의 기술 전수】＼ｔ3^S뒤로00「팔」과 「다리」에 힘을 줍니다.0모든 동작을 동시에 하는 것이 요령입니다.000　　　　　　　　　　　　　　^Y피하기0　^C커맨드　　펀치^X　　^B던지기0　　　　　　　　　　　킥^A0
+exe:213F50		1	【熊男】＼ｔ3^S戻る00^Yで全技巻物を確認できます。0威力の高い技をチェックしてみてください。0	【곰 사내】＼ｔ3^S뒤로00^Y로 전 기술 두루마리를 확인할 수 있습니다.0위력이 높은 기술을 체크해 보세요.0
+exe:213FAC		1	【白虎】＼ｔ3^S戻る00バトル中にＱＴＥや0コマンドＱＴＥが発生します。0成功すると、必殺技がくりだされます。0コマンドＱＴＥ中は、相手は攻撃しません。0おちついて、入力してください。0	【백호】＼ｔ3^S뒤로00전투 중에 ＱＴＥ나0커맨드 ＱＴＥ가 발생합니다.0성공하면 필살기가 나갑니다.0커맨드 ＱＴＥ 중에는 상대가 공격하지 않습니다.0침착하게 입력하세요.0
+exe:21405C		1	【春燕】＼ｔ3^S戻る00バトル中に、コマンドＱＴＥが発生します。0成功すると、必殺技がくりだされます。0コマンドＱＴＥ中は、相手は攻撃しません。0おちついて、入力してください。0全技巻物で技の確認ができます。0	【춘옌】＼ｔ3^S뒤로00전투 중에 커맨드 ＱＴＥ가 발생합니다.0성공하면 필살기가 나갑니다.0커맨드 ＱＴＥ 중에는 상대가 공격하지 않습니다.0침착하게 입력하세요.0전 기술 두루마리에서 기술을 확인할 수 있습니다.0
+exe:214124		1	【片目の男】＼ｔ3^S戻る00^Cと^Yで目的の方向によけることができます。0相手の死角に入って攻撃をさけ、0その隙に攻撃してください。0	【애꾸눈 사내】＼ｔ3^S뒤로00^C와 ^Y로 원하는 방향으로 피할 수 있습니다.0상대의 사각으로 들어가 공격을 피하고,0그 틈에 공격하세요.0
+exe:2141A0		1	【グレッグ・モア】＼ｔ3^S戻る00３セットマッチのフリーバトル形式です。0相手は最強のレスラーです。0今までの経験を生かして、がんばってください。0全技巻物で技の確認ができます。0	【그렉 모어】＼ｔ3^S뒤로00３세트 매치 프리 배틀 방식입니다.0상대는 최강의 레슬러입니다.0지금까지의 경험을 살려 힘내세요.0전 기술 두루마리에서 기술을 확인할 수 있습니다.0
+exe:21424C		1	【ロッド・スタント】＼ｔ3^S戻る00３セットマッチのフリーバトル形式です。0相手はパンクラチオンの達人です。0今までの経験を生かして、がんばってください。0全技巻物で技の確認ができます。0	【로드 스턴트】＼ｔ3^S뒤로00３세트 매치 프리 배틀 방식입니다.0상대는 판크라티온의 달인입니다.0지금까지의 경험을 살려 힘내세요.0전 기술 두루마리에서 기술을 확인할 수 있습니다.0
+exe:214300		1	【化勁の達人】＼ｔ3^S戻る00バトル中に、コマンドＱＴＥが発生します。0成功すると、必殺技がくりだされます。0コマンドＱＴＥ中は、相手は攻撃しません。0おちついて、入力してください。0	【화경의 달인】＼ｔ3^S뒤로00전투 중에 커맨드 ＱＴＥ가 발생합니다.0성공하면 필살기가 나갑니다.0커맨드 ＱＴＥ 중에는 상대가 공격하지 않습니다.0침착하게 입력하세요.0
+exe:2143B0		1	【モンゴル相撲】＼ｔ3^S戻る00相手につかまれると負けです。0^Yでよけるか、攻撃をくわえ、0相手を近づけないことが、コツです。0近づくと、モンゴル相撲で投げてきます。0	【몽골 씨름】＼ｔ3^S뒤로00상대에게 잡히면 집니다.0^Y로 피하거나 공격을 가해0상대를 가까이 오지 못하게 하는 것이 요령입니다.0가까이 가면 몽골 씨름으로 던져 옵니다.0
+exe:214450		1	【鉄頭功の達人】＼ｔ3^S戻る00相手の攻撃にあわせてタイミング良く、0^Yを押すとよけられます。0リングぎわで、よけを成功させるのがコツです。0	【철두공의 달인】＼ｔ3^S뒤로00상대의 공격에 맞춰 타이밍 좋게0^Y를 누르면 피할 수 있습니다.0링 가장자리에서 피하기에 성공하는 것이 요령입니다.0
+exe:2144D8		1	【軽功の達人】＼ｔ3^S戻る00逃げ回る相手を、つかまえたら勝ちです。0相手に接近して、^Bでつかまえます。0接近して、なるべく多く^Bを押してください。0	【경공의 달인】＼ｔ3^S뒤로00도망 다니는 상대를 붙잡으면 승리입니다.0상대에게 접근해서 ^B로 붙잡습니다.0접근해서 가능한 한 많이 ^B를 눌러 주세요.0
+exe:214568		1	【鉄砂掌の達人】＼ｔ3^S戻る00相手の必殺技を、うまくかわしてください。0バトル中に、ＱＴＥが発生します。0コマンドＱＴＥ中は、相手は攻撃しません。0おちついて、入力してください。0	【철사장의 달인】＼ｔ3^S뒤로00상대의 필살기를 잘 피하세요.0전투 중에 ＱＴＥ가 발생합니다.0커맨드 ＱＴＥ 중에는 상대가 공격하지 않습니다.0침착하게 입력하세요.0
+exe:2169A4		1	方向キー	방향키
+exe:2169B0		1	移動	이동
+exe:2169B8		2	見る	보기
+exe:2169C0		1	　：ズーム	　：줌
+exe:2169CC		1	　：走る　	　：달리기　
+exe:2169D8		1	オフ	오프
+exe:2169E0		1	オン	온
+exe:2169E8		1	ステレオ	스테레오
+exe:2169F4		1	モノラル	모노
+exe:216A00		1	ゲームモード	게임 모드
+exe:216A10		1	テキストモード	텍스트 모드
+exe:216A20		1	シネマモード	시네마 모드
+exe:216A30		1	シェンムーモード	쉔무 모드
+exe:216A44		1	変更	변경
+exe:216A4C		1	走りボタン	달리기 버튼
+exe:216A58		1	アナログ	아날로그
+exe:216A64		1	サウンド	사운드
+exe:216A70		1	声と字幕	음성과 자막
+exe:216A7C		1	字幕だけでゲームを進行します。	자막만으로 게임을 진행합니다.
+exe:216A9C		1	スキップ時、字幕が表示されます。	스킵할 때 자막이 표시됩니다.
+exe:216AC0		1	声と字幕でゲームを進行します。	음성과 자막으로 게임을 진행합니다.
+exe:216AE0		1	声だけでゲームを進行します。	음성만으로 게임을 진행합니다.
+exe:216B00		1	走りボタンとズームボタンの	달리기 버튼과 줌 버튼의
+exe:216B1C		1	機能を入れかえます。	기능을 서로 바꿉니다.
+exe:216B34		1	アナログ方向キーの	아날로그 방향키의
+exe:216B48		1	切りかえます。	전환합니다.
+exe:216B58		1	ステレオとモノラルを	스테레오와 모노럴을
+exe:21726C		1	狼回商店   Langhui Shop	낭회상점   Langhui Shop
+exe:217284		1	石切り場   Stone Pit	채석장   Stone Pit
+exe:21729C		1	莎花の家   Shenhua's House	션화의 집   Shenhua's House
+exe:2172B8		1	深緑道   Deep Green Way	심록도   Deep Green Way
+exe:2172D0		1	雲鳥道   Cloud Bird Trail	운조도   Cloud Bird Trail
+exe:2172EC		1	林道   Path Through a Wood	숲길   Path Through a Wood
+exe:217308		1	緑野   Green Field	녹야   Green Field
+exe:21731C		1	森林   Forest	삼림   Forest
+exe:21732C		1	岩場   Rocky Area	바위터   Rocky Area
+exe:217340		1	岩峰   Crag	암봉   Crag
+exe:21734C		1	蛍水川   Yingshuihe	형수천   Yingshuihe
+exe:217360		1	狼回山   Langhuishan	낭회산   Langhuishan
+exe:217378		1	白千楼   Thousand White Bldg.	백천루   Thousand White Bldg.
+exe:217398		1	青龍庭院   Blue Dragon Garden	청룡정원   Blue Dragon Garden
+exe:2173B8		1	雷鳴館   Thunder House	뇌명관   Thunder House
+exe:2173D0		1	闘地   Fighting Place	싸움터   Fighting Place
+exe:2173E8		1	工場跡   Former Factory Site	공장터   Former Factory Site
+exe:217408		1	建設基地   Construction Base	건설기지   Construction Base
+exe:217428		1	星見台   Star Gazing Point	성견대   Star Gazing Point
+exe:217444		1	小龍庭院   Small Dragon Garden	소룡정원   Small Dragon Garden
+exe:217464		1	元軍人宿舎   Former Barracks	옛 군인 숙소   Former Barracks
+exe:217484		1	点心街   Dimsum Qr.	딤섬가   Dimsum Qr.
+exe:217498		1	屋台街   Stand Qr.	포장마차 거리   Stand Qr.
+exe:2174AC		1	地下   Underground	지하   Underground
+exe:2174C0		1	大牛楼   Big Ox Bldg.	대우루   Big Ox Bldg.
+exe:2174D8		1	金花楼   Golden Flower Bldg.	금화루   Golden Flower Bldg.
+exe:2174F8		1	玄天楼   Black Heaven Bldg.	현천루   Black Heaven Bldg.
+exe:217514		1	大黒楼   God of Wealth Bldg.	대흑루   God of Wealth Bldg.
+exe:217534		1	安見楼   Great View Bldg.	안견루   Great View Bldg.
+exe:217550		1	龍喜楼   Dancing Dragon Bldg.	용희루   Dancing Dragon Bldg.
+exe:217570		1	朱雀楼   Phoenix Bldg.	주작루   Phoenix Bldg.
+exe:217588		1	点心楼   Dimsum Bldg.	딤섬루   Dimsum Bldg.
+exe:2175A0		1	三鳥楼   Three Birds Bldg.	삼조루   Three Birds Bldg.
+exe:2175BC		1	飲茶楼   Tea Break Bldg.	음다루   Tea Break Bldg.
+exe:2175D8		1	役所跡   Old Government Office Site	관아터   Old Government Office Site
+exe:2175FC		1	不幽楼   Ghost Hall Bldg.	불유루   Ghost Hall Bldg.
+exe:217618		1	黄天楼   Yellow Head Bldg.	황천루   Yellow Head Bldg.
+exe:217634		1	白千街   Thousand White Qr.	백천가   Thousand White Qr.
+exe:217650		1	龍影街   Dragon St.	용영가   Dragon St.
+exe:217664		1	百子楼   Moon Child Bldg.	백자루   Moon Child Bldg.
+exe:217680		1	九龍歯医者   Kowloon Dentist	구룡치과   Kowloon Dentist
+exe:2176A0		1	金歯医者   Golden Dentist	금니치과   Golden Dentist
+exe:2176BC		1	天馬歯科   Unicorn Dentist	천마치과   Unicorn Dentist
+exe:2176D8		1	七歯科   Seventh Dentist	칠치과   Seventh Dentist
+exe:2176F4		1	百子歯科   Moon Child Dentist	백자치과   Moon Child Dentist
+exe:217714		1	五星公司   Five Stars Corp.	오성공사   Five Stars Corp.
+exe:217730		1	デュラルルーム   Dural Room	듀럴 룸   Dural Room
+exe:21774C		1	シルバールーム   Silver Room	실버 룸   Silver Room
+exe:21776C		1	ブロンズルーム   Bronze Room	브론즈 룸   Bronze Room
+exe:21778C		1	虎門武館   Tiger Gate Kung Fu	호문무관   Tiger Gate Kung Fu
+exe:2177AC		1	白千修道院   Thousand White Convent	백천수도원   Thousand White Convent
+exe:2177D0		1	白千倉庫   Thousand White Warehouse	백천창고   Thousand White Warehouse
+exe:2177F4		1	安見漢方   Great View Herbs	안견한방   Great View Herbs
+exe:217810		1	安見当舗   Great View Pawnshop	안견전당포   Great View Pawnshop
+exe:217830		1	九龍当舗   Kowloon Pawnshop	구룡전당포   Kowloon Pawnshop
+exe:21784C		1	民民点心   Min Min Dimsum	민민딤섬   Min Min Dimsum
+exe:217868		1	春秋点心   Spring and Autumn Dimsum	춘추딤섬   Spring and Autumn Dimsum
+exe:21788C		1	スロットハウスＫ   Slot House K	슬롯 하우스Ｋ   Slot House K
+exe:2178AC		1	九龍点心   Kowloon Dimsum	구룡딤섬   Kowloon Dimsum
+exe:2178C8		1	千亀占卦   Tortoise Fortunetellers	천귀점집   Tortoise Fortunetellers
+exe:2178EC		1	読心占卦   Mind Reading Fortunetellers	독심점집   Mind Reading Fortunetellers
+exe:217914		1	ユアンの部屋   Yuan's Room	위안의 방   Yuan's Room
+exe:217930		1	百子孤児院   Moon Child Orphanage	백자고아원   Moon Child Orphanage
+exe:217954		1	凱の部屋   Kai's Room	카이의 방   Kai's Room
+exe:21796C		1	黄の部屋   Huang's Room	황의 방   Huang's Room
+exe:217984		1	レンのアジト   Ren's Hideout	렌의 아지트   Ren's Hideout
+exe:2179A4		1	白秦街   White Dynasty Qr.	백진가   White Dynasty Qr.
+exe:2179C0		1	詠黄街   Golden Qr.	영황가   Golden Qr.
+exe:2179D4		1	福仙街   Lucky Charm Qr.	복선가   Lucky Charm Qr.
+exe:2179F0		1	紅南街   South  Carmain  Qr.	홍남가   South  Carmain  Qr.
+exe:217A10		1	太老街   Wise Men's Qr.	태로가   Wise Men's Qr.
+exe:217A28		1	菜珍街   Green Market Qr.	채진가   Green Market Qr.
+exe:217A44		1	リバプール   Liverpool	리버풀   Liverpool
+exe:217A5C		1	ロンドン   London	런던   London
+exe:217A70		1	白秦当舗   White Dynasty Pawnshop	백진전당포   White Dynasty Pawnshop
+exe:217A94		1	紅華台   Scarlet Hills	홍화대   Scarlet Hills
+exe:217AAC		1	関羽易占   Godhead Fortuneteller's	관우역점   Godhead Fortuneteller's
+exe:217AD0		1	境内   Yard	경내   Yard
+exe:217ADC		1	文武廟   Man Mo Temple	문무묘   Man Mo Temple
+exe:217AF4		1	太老武術   Wise Men's Kung Fu	태로무술   Wise Men's Kung Fu
+exe:217B14		1	文武菜館   Man Mo Bistro	문무채관   Man Mo Bistro
+exe:217B30		1	太老薬舗   Wise Men's Chemist	태로약포   Wise Men's Chemist
+exe:217B50		1	文武陶器   Man Mo China Shop	문무도기   Man Mo China Shop
+exe:217B70		1	太老当舗   Wise Men's Pawnshop	태로전당포   Wise Men's Pawnshop
+exe:217B90		1	金華当舗   Golden Flower Pawnshop	금화전당포   Golden Flower Pawnshop
+exe:217BB4		1	招福当舗   Lucky Pawnshop	초복전당포   Lucky Pawnshop
+exe:217BD0		1	明朗当舗   Accounts Settled Pawnshop	명랑전당포   Accounts Settled Pawnshop
+exe:217BF8		1	中心当舗   Centre Pawnshop	중심전당포   Centre Pawnshop
+exe:217C14		1	文武漢方   Man Mo Herb Medicine	문무한방   Man Mo Herb Medicine
+exe:217C34		1	金銀堂   King's Ransom Antiques	금은당   King's Ransom Antiques
+exe:217C54		1	集古堂   Collect Antiques	집고당   Collect Antiques
+exe:217C70		1	文武堂   Man Mo Antiques	문무당   Man Mo Antiques
+exe:217C8C		1	大元楼   Da Yuan Apartments	대원루   Da Yuan Apartments
+exe:217CA8		1	毘国堂   Beautiful Country China Shop	비국당   Beautiful Country China Shop
+exe:217CD0		1	祖礼堂   Worship Buddhist Altar Shop	조례당   Worship Buddhist Altar Shop
+exe:217CF8		1	幸福堂   Happiness Buddhist Altar Shop	행복당   Happiness Buddhist Altar Shop
+exe:217D20		1	天仙堂   Heaven Buddhist Altar Shop	천선당   Heaven Buddhist Altar Shop
+exe:217D44		1	千宮裁縫店   Many Palace Tailor	천궁재봉점   Many Palace Tailor
+exe:217D64		1	西洋裁縫店   Western Fashions Clothier	서양재봉점   Western Fashions Clothier
+exe:217D8C		1	文武酒家   Man Mo Restaurant	문무주가   Man Mo Restaurant
+exe:217DAC		1	豆将軒   Dou Jiang Diner	두장헌   Dou Jiang Diner
+exe:217DC8		1	来視占卦   Prophecy　Fortuneteller's	내시점집   Prophecy　Fortuneteller's
+exe:217DF0		1	張喩理髪店   Zhangyu Barber's Shop	장위이발소   Zhangyu Barber's Shop
+exe:217E14		1	文武電器   Man Mo Electrical Goods	문무전기   Man Mo Electrical Goods
+exe:217E38		1	文武商店   Man Mo General Store	문무상점   Man Mo General Store
+exe:217E58		1	仙輝茶楼   Bright Teahouse	선휘다루   Bright Teahouse
+exe:217E74		1	福仙理髪店   Lucky Charm Barber's Shop	복선이발소   Lucky Charm Barber's Shop
+exe:217E9C		1	李理髪店   Lee Barber's Shop	이이발소   Lee Barber's Shop
+exe:217EBC		1	一流裁縫店   First Class Tailor	일류재봉점   First Class Tailor
+exe:217EDC		1	福仙裁縫店   Lucky Charm Tailor	복선재봉점   Lucky Charm Tailor
+exe:217EFC		1	最新電器   Latest Electronic Emporium	최신전기   Latest Electronic Emporium
+exe:217F24		1	華皇電器   Flower King Electronic Shop	화황전기   Flower King Electronic Shop
+exe:217F4C		1	福仙電器   Lucky Charm Electronics	복선전기   Lucky Charm Electronics
+exe:217F70		1	湾仔電器   Wan Chai Electronic Goods	완차이전기   Wan Chai Electronic Goods
+exe:217F98		1	本格裁縫店   Complete Clothier	본격재봉점   Complete Clothier
+exe:217FB8		1	喜喜裁縫店   Gladness Garments	희희재봉점   Gladness Garments
+exe:217FD8		1	華裁縫店   Bloom Tailor	화재봉점   Bloom Tailor
+exe:217FF0		1	詠黄百貨   Golden Shopping Mall	영황백화점   Golden Shopping Mall
+exe:218010		1	エスアイシー   S.I.C. Pool Hall	에스아이시   S.I.C. Pool Hall
+exe:218030		1	スロットダブリュー   Slot House W	슬롯 더블유   Slot House W
+exe:218054		1	詠黄宝石   Golden Jewelers	영황보석   Golden Jewelers
+exe:218070		1	ポップアイス   Pop Ice Cream Store	팝 아이스   Pop Ice Cream Store
+exe:218094		1	ムーンカフェ   Moon Cafe	문 카페   Moon Cafe
+exe:2180B0		1	トマトコンビニ   Tomato Convenience Store	토마토 편의점   Tomato Convenience Store
+exe:2180DC		1	光華宝石   Beautiful Shine Jewelers	광화보석   Beautiful Shine Jewelers
+exe:218100		1	竹文書房   Juk Man Bookstore	죽문서방   Juk Man Bookstore
+exe:218120		1	松電子遊戯中央   Pine Game Arcade	송전자유희중앙   Pine Game Arcade
+exe:218144		1	清麗宝石   Glamorous Jewelers	청려보석   Glamorous Jewelers
+exe:218164		1	光来当舗   Shine Pawnshop	광래전당포   Shine Pawnshop
+exe:218180		1	紅南当舗   Carmain Pawnshop	홍남전당포   Carmain Pawnshop
+exe:21819C		1	恩田楼   Yan Tin Apartments	은전루   Yan Tin Apartments
+exe:2181B8		1	奥州蕎麦   Ohshu Soba	오슈 소바   Ohshu Soba
+exe:2181D0		1	文武酒舗   Bar Man Mo	문무주포   Bar Man Mo
+exe:2181E8		1	点点酒舗   Pub Point	점점주포   Pub Point
+exe:218200		1	日本蕎麦   Japanese Soba	일본 소바   Japanese Soba
+exe:21821C		1	富士山   Fujiyama Sushi	후지산   Fujiyama Sushi
+exe:218234		1	仙境占卦   Hermit Fortunetellers	선경점집   Hermit Fortunetellers
+exe:218258		1	空き地   A Vacant Lot	공터   A Vacant Lot
+exe:218270		1	方来旅社   Come Over Guest House	방래여사   Come Over Guest House
+exe:218294		1	石竹花   Yamato Sushi	석죽화   Yamato Sushi
+exe:2182AC		1	菜珍当舗   Green Market's Pawnshop	채진전당포   Green Market's Pawnshop
+exe:2182D0		1	ラッキープラザ   Lucky Plaza	러키 플라자   Lucky Plaza
+exe:2182F0		1	闘屋上   Rooftop Fight	옥상 격투   Rooftop Fight
+exe:218308		1	ビバリーヒルズワーフ   Beverly Hills Wharf	비벌리힐스 워프   Beverly Hills Wharf
+exe:218334		1	クイーンズストリート   Queen's　St.	퀸즈 스트리트   Queen's　St.
+exe:218358		1	労湾碼頭   Worker's Pier	노만 부두   Worker's Pier
+exe:218374		1	レンの倉庫   Ren's Warehouse	렌의 창고   Ren's Warehouse
+exe:218394		1	良心当舗   Honest Pawnshop	양심전당포   Honest Pawnshop
+exe:2183B0		1	東風雑貨   General Store	동풍잡화   General Store
+exe:2183CC		1	巨大釣具   The Big Catch Tackle Shop	거대낚시   The Big Catch Tackle Shop
+exe:2183F4		1	香港的特産   Hong Kong Souvenirs	홍콩 특산품   Hong Kong Souvenirs
+exe:218418		1	鳩汀珈琲   Pigeon Cafe	구정커피   Pigeon Cafe
+exe:218430		1	スイング   Swing	스윙   Swing
+exe:218444		1	開運碼頭   Fortune's Pier	개운 부두   Fortune's Pier
+exe:218460		1	８番倉庫   No.8 Warehouse	８번 창고   No.8 Warehouse
+exe:21847C		1	開運事務所   Fortune's Office	개운사무소   Fortune's Office
+exe:21849C		1	９番倉庫   No.9 Warehouse	９번 창고   No.9 Warehouse
+exe:2184B8		1	１２番倉庫   No.12 Warehouse	１２번 창고   No.12 Warehouse
+exe:2184D8		1	１０番倉庫   No.10 Warehouse	１０번 창고   No.10 Warehouse
+exe:2184F8		1	６番倉庫   No.6 Warehouse	６번 창고   No.6 Warehouse
+exe:218514		1	ブルースカイ   Blue Sky	블루 스카이   Blue Sky
+exe:21852C		1	開運食堂   Fortune's Eatery	개운식당   Fortune's Eatery
+exe:218548		1	Ｆ倉庫   F Warehouse	Ｆ 창고   F Warehouse
+exe:218574		1	004走る83防御063パンチ6投げ04移動4キック0	004달리기83방어063펀치6던지기04이동4킥0
+exe:2185A0		1	2を押すと、売る個数が増加し、02を押すと、売る個数が減少します。0売る個数をすべて決めたら、0「決定」にカーソルを合わせ、02を押してください。00＼ｔカーソル移動＼ｔ上スクロール0＼ｔ＼ｔ下スクロール0	2를 누르면 파는 개수가 증가하고,02를 누르면 파는 개수가 감소합니다.0파는 개수를 모두 정했으면0「결정」에 커서를 맞추고,02를 눌러 주세요.00＼ｔ커서 이동＼ｔ위로 스크롤0＼ｔ＼ｔ아래로 스크롤0
+exe:218658		1	T台の途中にもポケットがあります。0V	T판 도중에도 포켓이 있습니다.0V
+exe:21867C		1	0＼ｔ案内板の確認0＼ｔ台の選択／落とす位置の選択0＼ｔ決定0	0＼ｔ안내판 확인0＼ｔ판 선택／떨어뜨릴 위치 선택0＼ｔ결정0
+exe:2186B0		1	【スロットハウス】Aスロットマシンの前で2を押すと、0そのマシンで遊ぶことができます。0＄５で、コイン２０枚です。00	【슬롯 하우스】A슬롯머신 앞에서 2를 누르면0그 머신으로 즐길 수 있습니다.0＄５에 코인 ２０개입니다.00
+exe:218724		1	◎に入れると勝ちです。0	◎에 넣으면 승리입니다.0
+exe:21873C		1	00ＢＥＴ／ＣＯＩＮ：かける0ＳＴＡＲＴ　　　：スタート0ＰＡＹ　ＯＵＴ　：払い出し00＼ｔ選択＼ｔ決定0＼ｔ	00ＢＥＴ／ＣＯＩＮ：걸기0ＳＴＡＲＴ　　　：스타트0ＰＡＹ　ＯＵＴ　：지급00＼ｔ선택＼ｔ결정0＼ｔ
+exe:21879C		1	◎に入れると、0配当を２倍に増やせる専用台で遊べます。0（ダブルアップは５回まで）0※一番右の台はダブルアップ専用台です。0　始めは、専用台以外の台を選んでください。0V	◎에 넣으면0배당을 ２배로 늘릴 수 있는 전용 판에서 즐길 수 있습니다.0（더블 업은 ５회까지）0※가장 오른쪽 판은 더블 업 전용 판입니다.0　처음에는 전용 판 이외의 판을 선택해 주세요.0V
+exe:218844		1	【フリークエスト】A0＼ｔ走る＼ｔ会話0＼ｔ歩くC0＼ｔ止まる＼ｔナビマーク00＼ｔズーム＼ｔメモ帳0＼ｔロックオン＼ｔアクション0＼ｔ	【프리 퀘스트】A0＼ｔ달리기＼ｔ대화0＼ｔ걷기C0＼ｔ멈추기＼ｔ내비 마크00＼ｔ줌＼ｔ메모장0＼ｔ락온＼ｔ액션0＼ｔ
+exe:2188A8		1	景品の枠に入れると、0次の台に挑戦できます。最後まで成功するか、0途中でやめると、それまでの景品がもらえますが、0失敗すると、景品はもらえません。0※一番左の台から順番に挑戦できます。0V	경품 칸에 넣으면0다음 판에 도전할 수 있습니다. 끝까지 성공하거나0도중에 그만두면 그때까지의 경품을 받을 수 있지만,0실패하면 경품을 받을 수 없습니다.0※가장 왼쪽 판부터 순서대로 도전할 수 있습니다.0V
+exe:218960		1	【鍵棒選択】Aどの鍵棒を使うか選択してください。00＼ｔ選択＼ｔ決定0	【열쇠봉 선택】A어느 열쇠봉을 사용할지 선택해 주세요.00＼ｔ선택＼ｔ결정0
+exe:2189A0		1	0タイトル画面で2を押せば、0やめる事ができます。0	0타이틀 화면에서 2를 누르면0그만둘 수 있습니다.0
+exe:2189D4		1	M残ったクレジットは返金されます。00	M남은 크레딧은 환불됩니다.00
+exe:2189F8		1	1コマンドＱＴＥ中は、相手は攻撃しません。01おちついて、入力してください。0	1커맨드 ＱＴＥ 중에는 상대가 공격하지 않습니다.01침착하게 입력하세요.0
+exe:218A44		1	コマンドＱＴＥが発生します。01成功すると、必殺技がくりだされます。0	커맨드 ＱＴＥ가 발생합니다.01성공하면 필살기가 나갑니다.0
+exe:218A88		1	、02を押した後、0「買う／やめる」に答えてください。00	、02를 누른 뒤0「사기／그만두기」를 선택해 주세요.00
+exe:218AC0		1	＼ｔAここでは買い物ができます。00欲しい商品を	＼ｔA여기서는 쇼핑을 할 수 있습니다.00원하는 상품을
+exe:218AEC		1	1３セットマッチのフリーバトルです。01２本先取した方が勝ちです。001	1３세트 매치 프리 배틀입니다.01２세트를 먼저 따낸 쪽이 승리합니다.001
+exe:218B34		1	＼ｔキャンセル	＼ｔ취소
+exe:218B40		1	＼ｔA2を押すことで、0記録、設定を呼び出すことができます。0	＼ｔA2를 누르면0기록, 설정을 불러낼 수 있습니다.0
+exe:218B78		1	＼ｔ5戻る0	＼ｔ5뒤로0
+exe:218B80		1	【白虎】AF相手は虎燕拳の達人です。0Y	【백호】AF상대는 호연권의 달인입니다.0Y
+exe:218BA8		1	【春燕】AF相手は截拳道の達人です。0Y	【춘옌】AF상대는 절권도의 달인입니다.0Y
+exe:218BD0		1	【グレッグ・モア】AF相手は最強のレスラーです。0Y	【그렉 모어】AF상대는 최강의 레슬러입니다.0Y
+exe:218C04		1	【ロッド・スタント】AF相手はパンクラチオンの達人です。0Y	【로드 스턴트】AF상대는 판크라티온의 달인입니다.0Y
+exe:218C40		1	【スロットマシン】A＄５で、コイン２０枚です。0SC0	【슬롯머신】A＄５에 코인 ２０개입니다.0SC0
+exe:218C74		1	【回数選択】A遊ぶ回数を決めてください。0５回まで続けて遊べます。002で回数を決めて、2で決定します。0	【횟수 선택】A플레이할 횟수를 정해 주세요.0５회까지 연속으로 즐길 수 있습니다.002로 횟수를 정하고,2로 결정합니다.0
+exe:218CD8		1	【対戦落し玉バイト】A客と交互に玉を落とし合います。00３回玉を落として、0◎に多く入れたほうが勝ちです。0同点の場合は、サドンデスとなります。002で落とす位置を決めて、2で落とします。0	【대전 구슬 떨구기 알바】A손님과 번갈아 구슬을 떨어뜨립니다.00３번 구슬을 떨어뜨려0◎에 더 많이 넣은 쪽이 승리합니다.0동점일 경우 서든 데스가 됩니다.002로 떨어뜨릴 위치를 정하고,2로 떨어뜨립니다.0
+exe:218D90		1	【対戦落し玉バイト】A涼が胴元となり、客と対戦します。0◎に入れた数を競います。00儲けの半分がバイト代としてもらえます。00※2で見回して、まちゆく人に02声をかけてみましょう。0	【대전 구슬 떨구기 알바】A료가 주인이 되어 손님과 대전합니다.0◎에 넣은 개수를 겨룹니다.00수익의 절반을 알바비로 받을 수 있습니다.00※2로 둘러보고, 지나가는 사람에게02말을 걸어 봅시다.0
+exe:218E40		1	【落し玉ミュージアム】A色々なルールの落し玉で遊べます。00＼ｔ案内板の確認0＼ｔ台の選択0＼ｔ決定0	【구슬 떨구기 뮤지엄】A다양한 규칙의 구슬 떨구기를 즐길 수 있습니다.00＼ｔ안내판 확인0＼ｔ판 선택0＼ｔ결정0
+exe:218E98		1	【ダブルアップ・専用台】A玉を１個落として、◎に入れると、0配当が倍になります。0（ダブルアップは５回まで）00Ｘに入れると、今までの配当はもらえません。00＼ｔ案内板の確認0＼ｔ落とす位置の選択0＼ｔ決定0	【더블 업・전용 판】A구슬을 １개 떨어뜨려 ◎에 넣으면0배당이 두 배가 됩니다.0（더블 업은 ５회까지）00Ｘ에 넣으면 지금까지의 배당은 받을 수 없습니다.00＼ｔ안내판 확인0＼ｔ떨어뜨릴 위치 선택0＼ｔ결정0
+exe:218F58		1	【センターポケット・テイク２】A玉を３個落として、0２個以上W	【센터 포켓・테이크２】A구슬을 ３개 떨어뜨려0２개 이상W
+exe:218F94		1	【センターポケット・パーフェクト３】A玉を３個落として、0すべてW	【센터 포켓・퍼펙트３】A구슬을 ３개 떨어뜨려0모두W
+exe:218FD4		1	【センターポケット・マルイチ】A玉を３個落として、0１個でもW	【센터 포켓・마루이치】A구슬을 ３개 떨어뜨려0１개라도W
+exe:219010		1	【センターポケット・イッパツ】A玉を１個落として、0W	【센터 포켓・한 방】A구슬을 １개 떨어뜨려0W
+exe:219044		1	【ナビマーク】Aナビマップにマークが打てます。0自分の目的に合うマークを使ってください。002：マーク（赤）02：マーク（黄）02：マーク（青）006同時押しで、現在表示されている0ナビマップ上のマークを全て消します。0	【내비 마크】A내비 맵에 마크를 찍을 수 있습니다.0자신의 목적에 맞는 마크를 사용하세요.002：마크（빨강）02：마크（노랑）02：마크（파랑）006동시에 누르면 현재 표시 중인0내비 맵 위의 마크를 모두 지웁니다.0
+exe:219114		1	【ハングオン】AＧＰマシンを操作して、制限時間内に0チェックポイントを通過してください。M0＼ｔハンドル＼ｔアクセル0＼ｔ＼ｔブレーキ0	【행온】AＧＰ 머신을 조작해 제한 시간 내에0체크포인트를 통과하세요.M0＼ｔ핸들＼ｔ액셀0＼ｔ＼ｔ브레이크0
+exe:21918C		1	【スペースハリアー】A敵弾や障害物を避けて、0ショットで敵を倒してください。M08移動08ショット0	【스페이스 해리어】A적 탄환과 장애물을 피해0샷으로 적을 쓰러뜨리세요.M08이동08샷0
+exe:2191EC		1	【アフターバーナー續】A撃ち落とされないように、0敵を撃破してください。M0＼ｔ移動＼ｔミサイル0＼ｔスロットル＼ｔバルカン0	【애프터 버너續】A격추당하지 않도록0적을 격파하세요.M0＼ｔ이동＼ｔ미사일0＼ｔ스로틀＼ｔ발칸0
